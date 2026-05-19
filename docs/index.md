@@ -4,6 +4,7 @@ Esta es la pagina principal de mi documentación
 
 ## Contenido
 
+- [Home](guia/home.md)
 - [Guía de Instalacion](guia/instalacion.md)
 - [Configuracion](guia/configuracion.md)
 - [Despliegue](guia/despliegue.md)
